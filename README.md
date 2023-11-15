@@ -26,8 +26,18 @@ For this Lab, you will create a responsive signup form for a fictitious tech sta
 ---
 
 ## Marks 
-1. (2 marks) The form is semnatic and uses the most approiate elements and attributes. The label and input element are paired together.
 
-2. (1 mark) The form has invalid and valid states (style states as you like).
+1. (1 mark) Make a <label> for each form control. Each label's for value must match the id of its associated form control. 
 
-3. (2 marks) The the form is styled and the forms layout from small to large screens matches the screenshots as closely as possible.
+2. (1 mark) Use the appropriate input type or form control for each form field (ex. text, email, date. either a select or radio button group ...).
+
+3. (1 mark) Use a unique name and id for each form control. 
+
+4. (1 mark) Use situationally appropriate attributes for each form control, such as required, maxlength, aria-describedby, placeholder, etc.
+
+5. (1 mark) Use a regular expression within a pattern attribute when requiring the user to enter data in a specific way. 
+
+**Possible Deductions:**
+1. The the form is styled and the forms layout from small to large screens matches the screenshots as closely as possible.
+
+2. Marks may be deducted for not following best practices for the web, validation errors, unoptimised images, incorrect pathing, improper formatting or not using semantic tags, using markup for layout purposes, inappropriate or inelegant CSS selectors, broken links, missing content or information, or spelling and grammatical errors.
