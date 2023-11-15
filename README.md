@@ -16,12 +16,18 @@ For this Lab, you will create a responsive signup form for a fictitious tech sta
 
 1. You will begin with the narrowest view (mobile view).
 
-2. Next, you will write a media query that flexes the web form when there is enough room to render the inputs and labels side-by-side.
+2. Write all the HTML form structure (see screenshot). Adding all the necessary form attributes.
 
-3. After, you will write a media query that swaps the background image  and flexes our form and marketing copy beside the image.  (already done)
+3. Style the form to look like the screenshots (should relatively close). Paying attention to the layout of the from small to large screens. (all media conditions are written for you).
 
-4. Finally, you will write a media query that stops prevents the layout from growing beyond a certain width. 
+4. Validate your work and push your work to the github repo.
 
-However, before you begin, you must prepare your content. Your first task will be to write valid, semantic HTML;.
 
 ---
+
+## Marks 
+1. (2 marks) The form is semnatic and uses the most approiate elements and attributes. The label and input element are paired together.
+
+2. (1 mark) The form has invalid and valid states (style states as you like).
+
+3. (2 marks) The the form is styled and the forms layout from small to large screens matches the screenshots as closely as possible.
