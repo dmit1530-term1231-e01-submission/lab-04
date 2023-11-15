@@ -22,6 +22,11 @@ For this Lab, you will create a responsive signup form for a fictitious tech sta
 
 4. Validate your work and push your work to the github repo.
 
+**Note:** 
+- There is a screenshot for invalid/valid states - this would be excellent practice to use for your assignment. (use simple validation - as we did in the first form demo using validation). 
+
+- In the screenshot - only valid state is shown, and is positioned absolutely to sit beside the label. You don't have to do this, but I do encourage you try. :). Flex those CSS positioning skills!
+
 
 ---
 
@@ -34,6 +39,8 @@ For this Lab, you will create a responsive signup form for a fictitious tech sta
 3. (1 mark) Use a unique name and id for each form control. 
 
 4. (1 mark) Use situationally appropriate attributes for each form control, such as required, maxlength, aria-describedby, placeholder, etc.
+*aria-describedby notes:* 
+- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-describedby
 
 5. (1 mark) Use a regular expression within a pattern attribute when requiring the user to enter data in a specific way. 
 
